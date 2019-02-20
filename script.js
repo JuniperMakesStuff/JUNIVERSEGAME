@@ -1157,6 +1157,7 @@ window.onload= function(){
     audio.loop = false
     audio.preload = true
     audio.autoplay = true
+    audio.controls = true
   
   
   var context = new window.AudioContext();
