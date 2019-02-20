@@ -1177,7 +1177,7 @@ window.onload= function(){
   
   var musicv=function(){
     window.requestAnimationFrame(musicv)
-    
+    context.resume()
     
     
     
